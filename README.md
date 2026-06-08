@@ -108,7 +108,7 @@ The target audience is health-conscious individuals in India — the nutrition p
 | Audio | Web Audio API (native browser) |
 | Styling | CSS Variables + Inline Styles |
 | Auth / Storage | localStorage |
-| Deployment | (Add yours here) |
+| Deployment | https://soulfit-steel.vercel.app/ |
 
 No backend. No database. No external API calls. Everything runs client-side.
 
