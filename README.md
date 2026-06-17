@@ -8,7 +8,6 @@ A personalized health web app that takes your biometric data and turns it into a
 
 ## 🔗 Live Demo
 
-https://sageofcode.me/
 
 ---
 
